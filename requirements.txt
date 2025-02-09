@@ -1,0 +1,16 @@
+chromadb
+sentence-transformers
+langchain
+langchain-community
+python-docx
+docx2txt
+pillow
+torch
+transformers
+pypdf
+fastapi
+uvicorn
+pydantic
+docx2txt
+python-jose
+python-multipart
