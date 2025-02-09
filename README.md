@@ -78,5 +78,5 @@
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone https://github.com/votre-utilisateur/iris-rh.git
+   git clone https://github.com/diarriatou/iris-rh.git
    cd iris-rh
